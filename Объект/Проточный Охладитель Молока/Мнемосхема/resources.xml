@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1">
+  <Control Name="Рисунок 1">
+    <Resource>Цистерна.png</Resource>
+  </Control>
+  <Control Name="Рисунок 2">
+    <Resource>Пластинчатый.png</Resource>
+  </Control>
+  <Control Name="Рисунок">
+    <Resource>Чиллер.png</Resource>
+  </Control>
+  <Control Name="Рисунок 3">
+    <Resource>Молокерня.png</Resource>
+  </Control>
+  <Control Name="Рисунок 4">
+    <Resource>Цистерна2.png</Resource>
+  </Control>
+</Mnemoscheme>
